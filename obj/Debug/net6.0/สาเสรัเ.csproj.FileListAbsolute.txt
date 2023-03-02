@@ -1,0 +1,15 @@
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\bin\Debug\net6.0\สาเสรัเ.exe
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\bin\Debug\net6.0\สาเสรัเ.deps.json
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\bin\Debug\net6.0\สาเสรัเ.runtimeconfig.json
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\bin\Debug\net6.0\สาเสรัเ.dll
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\bin\Debug\net6.0\สาเสรัเ.pdb
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.csproj.AssemblyReference.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.AssemblyInfoInputs.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.AssemblyInfo.cs
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.csproj.CoreCompileInputs.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.dll
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\refint\สาเสรัเ.dll
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.pdb
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\สาเสรัเ.genruntimeconfig.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สาเสรัเ\obj\Debug\net6.0\ref\สาเสรัเ.dll
